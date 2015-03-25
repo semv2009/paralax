@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<navigationModel
+  ns = "http://schemas.android.com?import=com.android.tools.idea.editors.navigation.model.*">
+  <locations  
+    class = "java.util.ArrayList">
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.paratext.semv.paralaxfree.PragraphListActivity"/>
+      <point      
+        x = "340"      
+        y = "1388"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.paratext.semv.paralaxfree.AvailableBookListActivity"/>
+      <point      
+        x = "548"      
+        y = "1528"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.paratext.semv.paralaxfree.DrawerNavigationActivity"/>
+      <point      
+        x = "500"      
+        y = "100"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.MenuState"      
+        className = "com.paratext.semv.paralaxfree.DrawerNavigationActivity"/>
+      <point      
+        x = "1768"      
+        y = "100"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.paratext.semv.paralaxfree.TranslateActivity"/>
+      <point      
+        x = "708"      
+        y = "1792"/>
+    </statePointEntry>
+    <statePointEntry>
+      <state      
+        class = "com.android.tools.idea.editors.navigation.model.ActivityState"      
+        className = "com.paratext.semv.paralaxfree.BookListActivity"/>
+      <point      
+        x = "648"      
+        y = "1628"/>
+    </statePointEntry>
+  </locations>
+</navigationModel>
